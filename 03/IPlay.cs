@@ -7,5 +7,15 @@ namespace _03
 {
     interface IPlay
     {
+        
+        string Play();
+        
+        string Stop();
+
+        string Pause();
+
+        string Pre();
+
+        string Next();
     }
 }

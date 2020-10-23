@@ -1,0 +1,8 @@
+D:\日常练习\2020-10-23课堂作业\bin\Debug\2020-10-23课堂作业.exe
+D:\日常练习\2020-10-23课堂作业\bin\Debug\2020-10-23课堂作业.pdb
+D:\日常练习\2020-10-23课堂作业\obj\Debug\_2020_10_23课堂作业.Form1.resources
+D:\日常练习\2020-10-23课堂作业\obj\Debug\_2020_10_23课堂作业.Properties.Resources.resources
+D:\日常练习\2020-10-23课堂作业\obj\Debug\2020-10-23课堂作业.csproj.GenerateResource.cache
+D:\日常练习\2020-10-23课堂作业\obj\Debug\2020-10-23课堂作业.csproj.CoreCompileInputs.cache
+D:\日常练习\2020-10-23课堂作业\obj\Debug\2020-10-23课堂作业.exe
+D:\日常练习\2020-10-23课堂作业\obj\Debug\2020-10-23课堂作业.pdb

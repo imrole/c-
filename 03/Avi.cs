@@ -9,25 +9,25 @@ namespace _03
     {
         public string Play()
         {
-            return "播放";
+            return "AVI播放";
         }
 
         public string Stop()
         {
-            return "停止";
+            return "AVI停止";
         }
 
         public string Pause()
         {
-            return "暂停";
+            return "AVI暂停";
         }
         public string Pre()
         {
-            return "上一首";
+            return "AVI上一首";
         }
         public string Next()
         {
-            return "下一首";
+            return "AVI下一首";
         }
     }
 }
